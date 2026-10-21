@@ -1,0 +1,1 @@
+This app is for personal use only and collects no data from anyone.
